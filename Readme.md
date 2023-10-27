@@ -8,11 +8,7 @@ This project is a Python-based application for resizing images. It allows you to
 
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -23,9 +19,7 @@ This project is a Python-based application for resizing images. It allows you to
 
 ## Requirements
 
-List down the requirements and dependencies needed to run the project. For example:
-
 - Python 3.x
-- [List any specific libraries or tools required for your project, e.g., Pillow, etc.]
+
 
 
